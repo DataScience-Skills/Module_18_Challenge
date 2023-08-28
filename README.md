@@ -36,10 +36,10 @@ View the analysis dashboard [__HERE__](https://public.tableau.com/app/profile/ro
 Create individual dashboards for each phenomenon you discovered, organizing related visualizations together.
 Ensure that your visualizations are visually appealing, colorful, and easy to understand for non-technical audiences.
 Add insightful and concise analysis in each dashboard explaining the phenomena you discovered and the trends observed.
-- Dashboard
+- [Dashboard](https://public.tableau.com/authoring/New-York-Citi-Bike-Analysis/PercentChangeinRidership/CitiBike-NYC-Dashboard#1)
 
 ## To view the Story
 Create a Tableau Story to bring together all the dashboards, visualizations, and maps.
 Arrange the dashboards in a logical flow to tell a compelling data-driven narrative.
 Ensure that your Tableau Story is professional and engaging, keeping in mind your audience, which includes city officials and public administrators.
-- Story
+- [Story](https://public.tableau.com/authoring/New-York-Citi-Bike-Analysis/PercentChangeinRidership/NYC%20Citibike%20Usage#1)https://public.tableau.com/authoring/New-York-Citi-Bike-Analysis/PercentChangeinRidership/NYC%20Citibike%20Usage#1
