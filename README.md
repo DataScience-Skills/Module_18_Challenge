@@ -42,4 +42,4 @@ Add insightful and concise analysis in each dashboard explaining the phenomena y
 Create a Tableau Story to bring together all the dashboards, visualizations, and maps.
 Arrange the dashboards in a logical flow to tell a compelling data-driven narrative.
 Ensure that your Tableau Story is professional and engaging, keeping in mind your audience, which includes city officials and public administrators.
-- [Story](https://public.tableau.com/authoring/New-York-Citi-Bike-Analysis/PercentChangeinRidership/NYC%20Citibike%20Usage#1)https://public.tableau.com/authoring/New-York-Citi-Bike-Analysis/PercentChangeinRidership/NYC%20Citibike%20Usage#1
+- [Story](https://public.tableau.com/authoring/New-York-Citi-Bike-Analysis/PercentChangeinRidership/NYC%20Citibike%20Usage#1)
